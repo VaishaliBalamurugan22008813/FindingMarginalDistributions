@@ -70,6 +70,6 @@ print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 # Output:
 ![image](https://github.com/VaishaliBalamurugan22008813/FindingMarginalDistributions/assets/119390134/03c27443-fc5e-439f-b739-eaa1f75528ed)
 
-#Results :
+
 Result :
 Marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables is found using python program.
